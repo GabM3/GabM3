@@ -14,9 +14,13 @@
  
 - I’m currently learning about <b>Mobile</b> with <b>Kotlin</b> & <b>Swift</b>
 
-
-<h3 align="center">Where to find me:</h3>
 <p align="center">
+ <center>
+
+<br>
+<br>
+<h3 align="center">Where to find me:</h3>
+
  <a href="https://www.linkedin.com/in/gabriele-marcato-45b776160/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Linkedin-%23ffffff.svg?&style=for-the-badge&logo=Linkedin&logoColor=black" alt="Linkedin" />
  </a>
@@ -31,8 +35,6 @@
   <img align="center" src="https://img.shields.io/badge/Stack_Overflow-white?style=for-the-badge&logo=stack-overflow&logoColor=black" alt="StackOverFlow" />
  </a>
 
-</p>
-
 <br>
 <br>
 <a href="https://stackoverflow.com/u/11481749/" target="_blank">
@@ -40,12 +42,9 @@
 </a>
 <br>
 <br>
-<br>
-<br>
 
-<h3 align="left">Languages & Stats:</h3>
-<p align="left">
- 
+<h3 align="center">Languages & Stats:</h3>
+
  
  <a href="https://kotlinlang.org/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Kotlin-white?&style=for-the-badge&logo=kotlin&logoColor=black" height="30" width="100" />
@@ -53,9 +52,14 @@
  <a href="https://www.apple.com/swift/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Swift-white?&style=for-the-badge&logo=swift&logoColor=black" alt="Swift" height="30" width="90" />
  </a>
-  
+
+ <br>
+<br> 
+
+<img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=gabm3&show_icons=true&count_private=true&theme=algolia" alt="GabM3" />
+<br>
+<br>
+<!-- <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabm3&show_icons=true&langs_count=8&count_private=true" alt="GabM3" /> -->
+</center>
 </p>
 
-<img align="left" height="170" src="https://github-readme-stats.vercel.app/api?username=gabm3&show_icons=true&count_private=true&theme=algolia" alt="GabM3" />
-
-<img align="right" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabm3&show_icons=true&langs_count=8&count_private=true" alt="GabM3" />
