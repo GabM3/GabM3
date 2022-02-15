@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="34"/>
+  <img src="https://emoji.gg/assets/emoji/2838-dogecoin.gif" width="34"/>
   <a href="https://github.com/GabM3">
    <img src="https://readme-typing-svg.herokuapp.com?color=%23095FF7&duration=2500&center=true&vCenter=true&height=50&lines=Hi!+I'm+GabM3;Junior+Mobile+Developer">
   </a>
@@ -43,7 +43,7 @@
 <br>
 <br>
 
-<h3 align="left">Languages, Tools & Stats:</h3>
+<h3 align="left">Languages & Stats:</h3>
 <p align="left">
  
  
@@ -56,6 +56,6 @@
   
 </p>
 
-<img align="left" height="170" src="https://github-readme-stats.vercel.app/api?username=gabm3&show_icons=true" alt="GabM3" />
+<img align="left" height="170" src="https://github-readme-stats.vercel.app/api?username=gabm3&show_icons=true&count_private=true&theme=algolia" alt="GabM3" />
 
-<!-- <img align="right" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabm3&langs_count=8" alt="GabM3" />/ -->
+<img align="right" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabm3&show_icons=true&langs_count=8&count_private=true" alt="GabM3" />
