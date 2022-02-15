@@ -10,7 +10,7 @@
 
 <p>About me:</p>
 
-- I’m currently working at [Kuama](https://kuama.it/)
+- I’m currently working at [Kuama](https://kuama.it/) as a mobile apps developer, in Padua (IT🇮🇹)
  
 - I’m currently learning about <b>Mobile</b> with <b>Kotlin</b> & <b>Swift</b>
 
@@ -53,7 +53,7 @@
   <img align="center" src="https://img.shields.io/badge/Swift-white?&style=for-the-badge&logo=swift&logoColor=black" alt="Swift" height="30" width="90" />
  </a>
 
- <br>
+<br>
 <br> 
 
 <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=gabm3&show_icons=true&count_private=true&theme=algolia" alt="GabM3" />
