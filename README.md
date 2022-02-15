@@ -4,7 +4,7 @@
   <a href="https://github.com/GabM3">
    <img src="https://readme-typing-svg.herokuapp.com?color=%23095FF7&duration=2500&center=true&vCenter=true&height=50&lines=Hi!+I'm+GabM3;Junior+Mobile+Developer">
   </a>
- 🌎
+  🚀
 </h1>
 
 
