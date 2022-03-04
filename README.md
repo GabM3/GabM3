@@ -12,7 +12,7 @@
 
 - I’m currently working at [Kuama](https://kuama.it/) as a mobile apps developer, in Padua (IT🇮🇹)
  
-- I’m currently learning about <b>Mobile</b> with <b>Kotlin</b> & <b>Swift</b>
+- I’m currently learning about <b>Mobile apps developing</b> for Android and iOS using <b>Kotlin</b> & <b>Swift</b>
 
 <p align="center">
  <center>
