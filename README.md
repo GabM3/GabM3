@@ -7,59 +7,33 @@
   🚀
 </h1>
 
+[![Linkedin Link](https://img.shields.io/badge/Linkedin-%23ffffff.svg?&style=for-the-badge&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/gabriele-marcato-45b776160/)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/gab_marcato?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgab_marcato&screen_name=gab_marcato)
+
+[![StackOverflow Link](https://img.shields.io/badge/Stack_Overflow-white?style=for-the-badge&logo=stack-overflow&logoColor=black)](https://img.shields.io/badge/Stack_Overflow-white?style=for-the-badge&logo=stack-overflow&logoColor=black)
 
 <p>About me:</p>
 
 - I’m currently working at [Kuama](https://kuama.it/) as a mobile apps developer, in Padua (IT🇮🇹)
  
-- I’m currently learning about <b>Mobile apps developing</b> for Android and iOS using <b>Kotlin</b> & <b>Swift</b>
-
-<p align="center">
- <center>
-
-<br>
-<br>
-<h3 align="center">Where to find me:</h3>
-
- <a href="https://www.linkedin.com/in/gabriele-marcato-45b776160/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Linkedin-%23ffffff.svg?&style=for-the-badge&logo=Linkedin&logoColor=black" alt="Linkedin" />
- </a>
- <a href="https://github.com/GabM3" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="Github" />
- </a> 
- </a>
- <a href="https://twitter.com/gab_marcato" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Twitter-white?style=for-the-badge&logo=twitter&logoColor=black" alt="Twitter" />
- </a>
- <a href="https://stackoverflow.com/users/11481749/gabriele-marcato" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Stack_Overflow-white?style=for-the-badge&logo=stack-overflow&logoColor=black" alt="StackOverFlow" />
- </a>
-
-<br>
-<br>
-<a href="https://stackoverflow.com/u/11481749/" target="_blank">
-  <img align="center" height="104" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/11481749" alt="GabM3" />
-</a>
-<br>
+- I’m currently learning about <b>Mobile</b> with <b>Kotlin</b> & <b>Swift</b>
 <br>
 
-<h3 align="center">Languages & Stats:</h3>
+<h3>Languages & Stats:</h3>
 
- 
  <a href="https://kotlinlang.org/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Kotlin-white?&style=for-the-badge&logo=kotlin&logoColor=black" height="30" width="100" />
+  <img src="https://img.shields.io/badge/Kotlin-white?&style=for-the-badge&logo=kotlin&logoColor=black" height="30" width="100" />
  </a>
  <a href="https://www.apple.com/swift/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Swift-white?&style=for-the-badge&logo=swift&logoColor=black" alt="Swift" height="30" width="90" />
+  <img src="https://img.shields.io/badge/Swift-white?&style=for-the-badge&logo=swift&logoColor=black" alt="Swift" height="30" width="90" />
  </a>
-
-<br>
+ 
 <br> 
 
-<img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=gabm3&show_icons=true&count_private=true&theme=algolia" alt="GabM3" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabm3&show_icons=true&count_private=true&theme=algolia" alt="GabM3" />
 <br>
 <br>
-<!-- <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabm3&show_icons=true&langs_count=8&count_private=true" alt="GabM3" /> -->
-</center>
-</p>
 
+ 
+<!-- <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabm3&show_icons=true&langs_count=8&count_private=true" alt="GabM3" /> -->
