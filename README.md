@@ -13,27 +13,17 @@
 
 [![StackOverflow Link](https://img.shields.io/badge/Stack_Overflow-white?style=for-the-badge&logo=stack-overflow&logoColor=black)](https://img.shields.io/badge/Stack_Overflow-white?style=for-the-badge&logo=stack-overflow&logoColor=black)
 
-<p>About me:</p>
+About me:
 
 - I’m currently working at [Kuama](https://kuama.it/) as a mobile apps developer, in Padua (IT🇮🇹)
  
-- I’m currently learning about <b>Mobile</b> with <b>Kotlin</b> & <b>Swift</b>
-<br>
+- I’m currently learning about developing apps <b>Mobile</b> using <b>Kotlin</b> & <b>Swift</b>
 
-<h3>Languages & Stats:</h3>
+Languages & Stats:
 
- <a href="https://kotlinlang.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Kotlin-white?&style=for-the-badge&logo=kotlin&logoColor=black" height="30" width="100" />
- </a>
- <a href="https://www.apple.com/swift/" target="_blank">
-  <img src="https://img.shields.io/badge/Swift-white?&style=for-the-badge&logo=swift&logoColor=black" alt="Swift" height="30" width="90" />
- </a>
- 
-<br> 
+[![Language Kotlin](https://img.shields.io/badge/Kotlin-white?&style=for-the-badge&logo=kotlin&logoColor=black)](https://kotlinlang.org/)
+[![Language swift](https://img.shields.io/badge/Swift-white?&style=for-the-badge&logo=swift&logoColor=black)](https://www.apple.com/swift/)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gabm3&show_icons=true&count_private=true&theme=algolia" alt="GabM3" />
-<br>
-<br>
+[![Stats](https://github-readme-stats.vercel.app/api?username=gabm3&show_icons=true&count_private=true&theme=algolia&include_all_commits=true)](https://www.github.com/gabm3/)
 
- 
-<!-- <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabm3&show_icons=true&langs_count=8&count_private=true" alt="GabM3" /> -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabm3)](https://github.com/anuraghazra/github-readme-stats) -->
