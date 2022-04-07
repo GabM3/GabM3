@@ -18,9 +18,9 @@
   
 About me:
 
-I’m currently working at [Kuama](https://kuama.it/) as a mobile apps developer, in Padua (IT🇮🇹)
- 
-I’m currently learning about developing apps <b>Mobile</b> using <b>Kotlin</b> & <b>Swift</b>
+I’m currently working at [Kuama](https://kuama.it/) as a mobile apps developer, in Padua (IT🇮🇹) 
+  
+  and learning about developing apps <b>Mobile</b> using <b>Kotlin</b> & <b>Swift</b>
 
   
 Languages & Stats:
