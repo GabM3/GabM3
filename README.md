@@ -32,3 +32,10 @@ Languages & Stats:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabm3)](https://github.com/anuraghazra/github-readme-stats) -->
 </h4>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/gabm3/count.svg" />
+</p>
+
+
