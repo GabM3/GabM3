@@ -25,12 +25,12 @@ About me:
 
 I’m currently working at [Kuama](https://kuama.it/) as an Apps Mobile Developer, based in Padua (IT🇮🇹) 
 
-  and learning about developing apps <b>Mobile</b> using <b>Swift</b> & <b>Kotlin</b>
+  and learning about developing apps mobile using Swift & Kotlin
 
   
 Languages & Stats:
 
-[![Language swift](https://img.shields.io/badge/Swift-white?&style=for-the-badge&logo=swift&logoColor=black)](https://www.apple.com/swift/)
+[![Language Swift](https://img.shields.io/badge/Swift-white?&style=for-the-badge&logo=swift&logoColor=black)](https://www.apple.com/swift/)
 [![Language Kotlin](https://img.shields.io/badge/Kotlin-white?&style=for-the-badge&logo=kotlin&logoColor=black)](https://kotlinlang.org/)
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=gabm3&show_icons=true&count_private=true&theme=algolia&include_all_commits=true)](https://www.github.com/gabm3/)
