@@ -25,7 +25,7 @@ About me:
 
 I’m currently working at [Kuama](https://kuama.it/) as an Apps Mobile Developer, based in Padua (IT🇮🇹) 
 
-  and learning about developing apps mobile using Swift & Kotlin
+  and I am developing mobile applications using Swift and Kotlin
 
   
 Languages & Stats:
