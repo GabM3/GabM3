@@ -12,12 +12,10 @@ Let's get in touch here:
 
 [![Linkedin Link](https://img.shields.io/badge/Linkedin-%23ffffff.svg?&style=for-the-badge&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/gabriele-marcato-45b776160/) [![Twitter Follow](https://img.shields.io/twitter/follow/gab_marcato?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgab_marcato&screen_name=gab_marcato) [![StackOverflow Link](https://img.shields.io/badge/Stack_Overflow-white?style=for-the-badge&logo=stack-overflow&logoColor=black)](https://stackoverflow.com/users/11481749/gabm3)
 
-
-
 Currently working at: 
-</h1>
 
-![photo_2022-04-04_10-37-08](https://user-images.githubusercontent.com/47599579/162247045-013c7341-28c2-4c50-add6-fa527202c1a7.jpg)
+![photo_2022-04-04_10-37-08](https://www.omnys.com/engines/img/logo.svg)
+</h1 align="center">
 
 <h4 align="center">
   
