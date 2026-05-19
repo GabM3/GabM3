@@ -20,7 +20,7 @@ import SwiftUI
 struct Gabriele: Developer {
     let role        = "iOS Mobile Developer"
     let company     = "Omnys"
-    let location    = "Verona, Italy"
+    let location    = "Padova, Italy"
 
     let stack: [Technology] = [
         .swift, .swiftUI, .uiKit,
