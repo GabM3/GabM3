@@ -12,7 +12,7 @@
 
 ```swift
 // GabM3.swift
-// iOS Mobile Developer based in Verona, IT 🇮🇹
+// iOS Mobile Developer based in Padova, IT 🇮🇹
 
 import Foundation
 import SwiftUI
