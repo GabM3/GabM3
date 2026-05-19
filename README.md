@@ -1,42 +1,70 @@
-
 <h1 align="center">
-  🚀
-  <a href="https://github.com/GabM3">
-   <img src="https://readme-typing-svg.herokuapp.com/?color=%23095FF7&duration=2500&center=true&vCenter=true&height=50&lines=Hi!+I%27m+GabM3;Junior+App+Mobile+Developer">
-  </a>
-  🚀
+  <code>$ swift run aboutMe</code>
 </h1>
-<h1 align="center">
 
-Let's get in touch here:
-
-[![Linkedin Link](https://img.shields.io/badge/Linkedin-%23ffffff.svg?&style=for-the-badge&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/gabriele-marcato-45b776160/) [![Twitter Follow](https://img.shields.io/twitter/follow/gab_marcato?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgab_marcato&screen_name=gab_marcato) [![StackOverflow Link](https://img.shields.io/badge/Stack_Overflow-white?style=for-the-badge&logo=stack-overflow&logoColor=black)](https://stackoverflow.com/users/11481749/gabm3)
-
-Currently working at: 
-
-![photo_2022-04-04_10-37-08](https://www.omnys.com/engines/img/logo.svg)
-</h1 align="center">
-
-<h4 align="center">
-  
-About me:
-
-I’m currently working at [Kuama](https://kuama.it/) as an Apps Mobile Developer, based in Padua (IT🇮🇹) 
-
-  and I am developing mobile applications using Swift and Kotlin
-
-  
-Languages & Stats:
-
-[![Language Swift](https://img.shields.io/badge/Swift-white?&style=for-the-badge&logo=swift&logoColor=black)](https://www.apple.com/swift/)
-[![Language Kotlin](https://img.shields.io/badge/Kotlin-white?&style=for-the-badge&logo=kotlin&logoColor=black)](https://kotlinlang.org/)
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=gabm3&show_icons=true&count_private=true&theme=algolia&include_all_commits=true)](https://www.github.com/gabm3/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabm3)](https://github.com/anuraghazra/github-readme-stats)
-</h4>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/gabm3/count.svg" />
+<p align="center">
+  <a href="https://github.com/GabM3">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=FA7343&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Gabriele+%E2%80%94+aka+GabM3;iOS+Mobile+Developer+%40+Omnys;Swift+%E2%80%A2+SwiftUI+%E2%80%A2+watchOS" alt="typing banner" />
+  </a>
 </p>
+
+---
+
+```swift
+// GabM3.swift
+// iOS Mobile Developer based in Verona, IT 🇮🇹
+
+import Foundation
+import SwiftUI
+
+struct Gabriele: Developer {
+    let role        = "iOS Mobile Developer"
+    let company     = "Omnys"
+    let location    = "Verona, Italy"
+
+    let stack: [Technology] = [
+        .swift, .swiftUI, .uiKit,
+        .watchOS, .watchKit,
+        .combine, .swiftConcurrency,
+        .xcode, .git
+    ]
+
+    let currentlyExploring = [
+        "watchOS deep-linking & WCSession bridges",
+        "SwiftUI on small screens",
+        "Swift 6 strict concurrency"
+    ]
+
+    let offTheClock: [Hobby] = [.running, .coffee, .tinkering]
+}
+```
+
+---
+
+### 🏃 `extension Gabriele: Runner`
+
+```swift
+// Runcard FIDAL Standard — valid through May 2027
+let upcomingRaces: [Race] = [
+    Race(name: "Mezza Verona",   date: "Nov 2026", distance: .halfMarathon),
+    Race(name: "Mezza Bologna",  date: "Mar 2027", distance: .halfMarathon),
+    Race(name: "Maratona Padova", date: "Apr 2027", distance: .marathon)
+]
+```
+
+---
+
+### 📫 `Contact.where { $0.isAvailable }`
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabriele-marcato-45b776160/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/gab_marcato">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>
+</p>
+
+---
+
+<p align="center"><sub><code>// EOF — built with Swift, caffeine, and kilometers.</code></sub></p>
